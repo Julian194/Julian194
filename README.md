@@ -19,7 +19,7 @@ AI Engineer in Hamburg. I build and operate AI systems in production.
 
 ## Tech
 
-`n8n` `Python` `Rails` `TypeScript` `Docker` `Ansible` `PostgreSQL` `Anthropic` `Gemini` `Supabase` `Grafana` `Loki`
+`n8n` `Python` `Rails` `TypeScript` `Docker` `Ansible` `PostgreSQL`
 
 ## Philosophy
 
