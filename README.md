@@ -27,4 +27,6 @@ Build systems that compound. Ship to production. Operate what you build.
 
 ---
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Julian194&show_icons=true&theme=default&hide_border=true&hide_title=true&hide_rank=true)
+
 📬 julian@kaiserlich.dev
